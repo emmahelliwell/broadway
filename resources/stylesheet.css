@@ -42,3 +42,34 @@ h2 {
   font-size: 32px;
   font-weight: bold;
 }
+
+.Broadway {
+  background: url("./images/the-flatiron-building.png");
+  height: 300px;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.contact {
+  background-color: white;
+}
+
+h3 {
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.bottomnav {
+  text-align: left;
+  color: white;
+}
+
+h4 {
+  color: black;
+  font-size: 23px;
+  font-weight: bold;
+}
