@@ -24,3 +24,16 @@ h1 {
   font-weight: bold;
   color: white;
 }
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  color: white;
+  font-size: 18px
+}
+
+a {
+  color: white;
+}
